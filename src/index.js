@@ -35,7 +35,7 @@ function wrapWidget(name) {
 }
 
 var WIDGETS = {
-  According: 'accordion',
+  Accordion: 'accordion',
   Autocomplete: 'autocomplete',
   Button: 'button',
   DatePicker: 'datepicker',

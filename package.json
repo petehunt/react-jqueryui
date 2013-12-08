@@ -2,7 +2,7 @@
   "name": "react-jqueryui",
   "version": "0.0.1",
   "description": "Easily wrap jQuery plugins with React",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "react": "http://petehunt.net/react/react-0.5.1.tar.gz"
   },
