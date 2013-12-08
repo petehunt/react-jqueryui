@@ -1,6 +1,6 @@
 {
   "name": "react-jqueryui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily wrap jQuery plugins with React",
   "main": "lib/index.js",
   "dependencies": {
